@@ -1,109 +1,155 @@
-<h1 align="center">Hi, I'm Mrigakshi Rathore 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Aspiring Software Engineer · DSA · Web Development · Open Source Contributor</strong><br/>
-  📍 Jaipur, Rajasthan, India
-</p>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mrigakshi%20Rathore&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20Student%20%7C%20Open%20Source%20%7C%20DSA%20%7C%20Web%20Dev&descAlignY=55&descSize=16" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Mrigakshi+Rathore!;🎓+3rd+Year+CSE+%40+SKIT+Jaipur;🌍+Open+Source+Contributor;🧩+DSA+Explorer+%7C+250%2B+Problems+Solved;💻+Building+one+commit+at+a+time..." alt="Typing SVG" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mrigakshi-Rathore&color=6C63FF&style=for-the-badge&label=Profile+Views)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Mrigakshi-Rathore?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/Mrigakshi-Rathore)
+
+</div>
+
+<br/>
+
+---
+
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 👩‍💻 About Me
+
+<br/>
+
+🏫 &nbsp;**B.Tech CSE** — SKIT, Jaipur *(3rd Year)*  
+🎯 &nbsp;Focused on **DSA + Web Development**  
+🌍 &nbsp;Active **Open Source Contributor**  
+🏆 &nbsp;**Elite Hack 1.0 Winner** — Best UI/UX  
+📈 &nbsp;Believer in consistent, compounding growth  
+✉️ &nbsp;Reach me at **mrigakshi2507@gmail.com**
+
+<br/><br/><br/><br/>
 
 ---
 
-## 👩‍💻 About Me
-
-B.Tech CSE student at **Swami Keshvanand Institute of Technology, Jaipur** (2024–2028), actively building expertise in software development through open-source contributions, internships, and competitive problem-solving.
-
-- 🔭 Currently contributing to open source via **GSSoC '26**
-- 🧠 Solved **300+ DSA problems** in C++
-- 🤝 Mentored contributors as **Project Admin** at Winter of Code Social 2025
-- 🏆 Winner — **Best UI/UX**, Elite Hack 1.0 Hackathon
-- 🌱 Continuously expanding skills in Web Development and CS fundamentals
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`C` `C++` `JavaScript` `HTML` `CSS`
+<div align="center">
 
-**Web Development**
-`Bootstrap` `HTML5` `CSS3` `JavaScript (ES6+)`
+| Languages | Web | Tools |
+|:-:|:-:|:-:|
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 
-**CS Fundamentals**
-`Data Structures & Algorithms` `OOP` `DBMS` `Operating Systems`
-
-**Tools & Platforms**
-`Git` `GitHub`
+</div>
 
 ---
 
 ## 💼 Experience
 
-**Mentor & Project Admin** · Winter of Code Social 2025
-- Guided open-source contributors through project onboarding and code reviews
-- Managed project workflow and ensured quality of merged contributions
+<details>
+<summary>&nbsp;🧑‍🏫 &nbsp;<b>Mentor & Project Admin — Winter of Code Social 2025</b> &nbsp;▾</summary>
+<br/>
+<blockquote>
 
-**Open Source Contributor** · GSSoC (GirlScript Summer of Code) 2025
-- Contributed across multiple repositories; **30+ PRs merged**
-- Collaborated with maintainers on bug fixes, feature additions, and documentation
+🔹 Guided contributors through open-source workflows, issue triage, and PR processes  
+🔹 Reviewed pull requests and helped maintainers manage project milestones effectively
 
-**Super Contributor** · Hacktoberfest 2025
-- Earned Super Contributor status through consistent, high-quality open-source participation
+</blockquote>
+</details>
 
-**Web Development Intern** · Ki Techno Software
-- Worked on real-world web development projects in a professional setting
-- Gained hands-on experience with front-end technologies and team workflows
+<details>
+<summary>&nbsp;🌐 &nbsp;<b>Open Source Contributor — GSSoC 2025</b> &nbsp;▾</summary>
+<br/>
+<blockquote>
+
+🔹 Contributed to multiple repositories under GirlScript Summer of Code  
+🔹 Delivered improvements in UI, documentation, and features through reviewed PRs
+
+</blockquote>
+</details>
+
+<details>
+<summary>&nbsp;🔥 &nbsp;<b>Super Contributor — Hacktoberfest 2025</b> &nbsp;▾</summary>
+<br/>
+<blockquote>
+
+🔹 Merged multiple PRs across global open-source projects  
+🔹 Strengthened skills in collaboration, code review etiquette, and version control
+
+</blockquote>
+</details>
+
+<details>
+<summary>&nbsp;💼 &nbsp;<b>Web Development Intern — KisTechnosoftware, Jaipur</b> &nbsp;▾</summary>
+<br/>
+<blockquote>
+
+🔹 Developed and maintained frontend components for client-facing web applications  
+🔹 Focused on responsive design, clean UI, and maintainable code practices
+
+</blockquote>
+</details>
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements
 
-- 🥇 **Best UI/UX Winner** — Elite Hack 1.0 Hackathon
-- 🤖 **Participant** — GenAI Hackathon (Hack2skill)
-- 📜 **NPTEL Java** (IIT Kharagpur) — **92% Score**
-- 🌟 **NPTEL Soft Skills** (IIT Kanpur) — **Top 2% nationally**
-- ☁️ **Oracle** — AI/ML with Java
-- 🔄 **Infosys** — Agile & DevOps
-- 📊 **PW Skills** — Data Analytics (Microsoft Powered)
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║                    🏆  HIGHLIGHTS                        ║
+╠══════════════════════════════════════════════════════════╣
+║  📘  NPTEL Programming in Java         →   Top 5%        ║
+║  📘  NPTEL Java                        →   92%           ║
+║  📘  NPTEL Soft Skills                 →   Top 2%        ║
+║  🥇  Elite Hack 1.0                    →   Best UI/UX    ║
+║  🧩  DSA Problems Solved               →   250+          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## ⚡ Coding & Open Source Highlights
-
-- 📌 **300+ DSA problems** solved in C++ across platforms
-- 🔀 **30+ Pull Requests merged** across GSSoC and Hacktoberfest programs
-- 🌍 Active open-source contributor recognized as **Hacktoberfest Super Contributor 2025**
-- 🎨 Hackathon track record: UI/UX winner at Elite Hack 1.0; participant in GenAI hackathons
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mrigakshi-Rathore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" height="180em"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrigakshi-Rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9" height="180em"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mrigakshi-Rathore&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
-I'm open to **internship opportunities**, **open-source collaborations**, and **tech communities**.
+<div align="center">
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 🐙 [GitHub](https://github.com/YOUR_GITHUB_USERNAME)
-- 📧 YOUR_EMAIL@example.com
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrigakshi%20Rathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrigakshi-rathore/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-mrigakshi2507@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrigakshi2507@gmail.com)
+
+<br/><br/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-<p align="center"><i>"Consistency in learning, impact through contribution."</i></p>
+*"Always building. Always learning. Always improving."*
+
+</div>
